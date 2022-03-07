@@ -1,10 +1,10 @@
 # 자바 레벨 테스트
-참조 사이트: 
+#### 참조 사이트
 * https://www.hackerrank.com/domains/java
 * https://github.com/iluwatar/java-design-patterns
 * https://level.goorm.io/
 
-참조 서적:
+#### 참조 서적
 * Design Patterns and Best Practices in Java / Packt Publishing
 
 ## 레벨 : 초급
