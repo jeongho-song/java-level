@@ -9,7 +9,7 @@
 
 ## 레벨 : 초급
 #### Objective
-OOP의 특징에 대해 이해하는지 검증
+자바 문법 및 OOP의 특징에 대해 이해하는지 검증
 
 #### 자바 기본 문법 및 OOP 특징
 * Basic: String, Data Type, Collection 등
@@ -27,18 +27,18 @@ OOP의 특징에 대해 이해하는지 검증
 ## 레벨 : 중급
 
 #### Objective
-1. 객체지향 반영한 설계, 객체 사용
+1. 객체지향 반영한 설계 및 객체를 사용할 수 있는 능력 검증
 2. 자바로 업무 프로그램을 설계할 수 있는 능력 검증
 
 
-#### 객체지향 반영한 설계
+#### 객체지향 반영한 설계 (객체지향 설계 5원칙)
 * Single responsibility principle
 * Open/closed principle
 * Liskov Substitution Principle
 * Interface Segregation Principle
 * Dependency inversion principle
 
-#### 디자인패턴
+#### 디자인패턴 (생성, 행위, 구조 패턴)
 * Creational Patterns : Singleton pattern, The factory pattern, Builder pattern, 
 Prototype pattern, Object pool pattern
 
