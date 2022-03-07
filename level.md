@@ -4,6 +4,9 @@
 * https://github.com/iluwatar/java-design-patterns
 * https://level.goorm.io/
 
+참조 서적:
+* Design Patterns and Best Practices in Java / Packt Publishing
+
 ## 레벨 : 초급
 #### Objective
 OOP의 특징에 대해 이해하는지 검증
