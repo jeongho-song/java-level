@@ -9,7 +9,7 @@
 
 ## 레벨 : 초급
 #### Objective
-자바 문법 및 OOP의 특징에 대해 이해하는지 검증
+1. 자바 문법 및 OOP의 특징에 대해 이해하는지 검증
 
 #### 자바 기본 문법 및 OOP 특징
 * Basic: String, Data Type, Collection 등
